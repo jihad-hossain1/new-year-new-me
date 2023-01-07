@@ -53,3 +53,44 @@ header {
     border-radius: 5px;
     margin-right: 230px;
 }
+
+/* failur section style  */
+
+.my-failur{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 130px 300px;
+
+}
+
+.failur-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+}
+.person-img{
+    margin: 30px;
+}
+
+.failur-discription{
+    margin-left: 85px;
+
+}
+
+.failur-title-discription{
+    margin-top: 25px;
+}
+
+
+.failur-list{
+    margin-top: 15px;
+}
+
+.fa-solid{
+    color: #16D887;
+    border: 0;
+    padding: 5px;
+    margin-right: 10px;
+}
+
