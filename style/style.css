@@ -53,3 +53,67 @@ header {
     border-radius: 5px;
     margin-right: 230px;
 }
+
+/* footer section style  */
+
+.footer-main{
+    margin-top: 130px;
+    display: flex;
+    background-color: #151414;
+    height: 570px;
+}
+.future{
+    margin-left: 230px;
+    margin-top: 130px;
+}
+.future-title{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+
+}
+
+.future-discription, .info{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.info{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.subcribe{
+    margin-top: 130px;
+    margin-left: 400px;
+}
+.subcribe-title{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 32px;
+}
+.subcribe input{
+    padding:20px 36px ;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    background-color: #151414;
+    color: #F3F3F3;
+    font-weight: 400;
+    font-size: 18px;
+    width: 325px;
+}
+
+.btn-sub{
+    color: #F3F3F3;
+    background-color: #005FAC;
+    padding: 20px 36px;
+    border: 0;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px; 
+
+}
