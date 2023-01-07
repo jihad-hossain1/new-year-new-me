@@ -94,3 +94,38 @@ header {
     margin-right: 10px;
 }
 
+
+/* my plans section style  */
+.my-plan{
+    margin-top: 130px;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.plan-container{
+    display: flex;
+    align-items: center;
+    margin-top: 65px;
+    margin-left: 340px;
+    gap: 86px;
+    text-align: center;
+}
+.plan-container div img{
+    margin-bottom: 24px;
+}
+
+.plan-cont-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+.plan-cont-subtitle{
+    color: #737272;
+    font-weight: 500;
+    font-size: 29px;
+}
